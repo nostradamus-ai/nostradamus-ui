@@ -1,0 +1,2 @@
+# nostradamus-ui
+Nostradamus frontent
